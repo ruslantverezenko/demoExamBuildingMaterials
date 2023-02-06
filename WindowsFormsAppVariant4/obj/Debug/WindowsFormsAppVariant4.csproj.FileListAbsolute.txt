@@ -1,0 +1,17 @@
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\bin\Debug\WindowsFormsAppVariant4.exe.config
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\bin\Debug\WindowsFormsAppVariant4.exe
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\bin\Debug\WindowsFormsAppVariant4.pdb
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.Properties.Resources.resources
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.csproj.GenerateResource.cache
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.exe
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.pdb
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\bin\Debug\DB_MT.mdb
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.FormLogin.resources
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.MainForm.resources
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.formAdmin.resources
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.AddPunktVidachiForm.resources
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.AddSotrudnikiForm.resources
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.AddTovariForm.resources
+C:\Users\Q\source\repos\WindowsFormsAppVariant4\WindowsFormsAppVariant4\obj\Debug\WindowsFormsAppVariant4.AddZakazForm.resources
